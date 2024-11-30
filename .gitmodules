@@ -5,6 +5,3 @@
 [submodule "epizootic"]
 	path = epizootic
 	url = https://github.com/viralemergence/epizootic
-[submodule "insectDisease"]
-	path = insectDisease
-	url = https://github.com/viralemergence/insectdisease
