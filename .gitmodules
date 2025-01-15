@@ -2,9 +2,17 @@
 	path = .registry
 	url = https://github.com/viralemergence/viralemergence.r-universe.dev
 	branch = HEAD
+[submodule "bold"]
+	path = bold
+	url = https://github.com/ropensci/bold
+	registered = false
 [submodule "epizootic"]
 	path = epizootic
 	url = https://github.com/viralemergence/epizootic
 [submodule "insectDisease"]
 	path = insectDisease
 	url = https://github.com/viralemergence/insectDisease
+[submodule "taxize"]
+	path = taxize
+	url = https://github.com/ropensci/taxize
+	registered = false

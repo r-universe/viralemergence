@@ -1,0 +1,14 @@
+[
+  {
+    "package": "bold",
+    "url": "https://github.com/ropensci/bold",
+    "via": ["insectDisease"],
+    "from": "insectDisease"
+  },
+  {
+    "package": "taxize",
+    "url": "https://github.com/ropensci/taxize",
+    "via": ["insectDisease"],
+    "from": "insectDisease"
+  }
+]
