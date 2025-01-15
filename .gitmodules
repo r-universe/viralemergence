@@ -1,7 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/viralemergence/viralemergence.r-universe.dev
 	branch = HEAD
 [submodule "epizootic"]
 	path = epizootic
 	url = https://github.com/viralemergence/epizootic
+[submodule "insectDisease"]
+	path = insectDisease
+	url = https://github.com/viralemergence/insectDisease
