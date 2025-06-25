@@ -16,3 +16,9 @@
 	path = taxize
 	url = https://github.com/ropensci/taxize
 	registered = false
+[submodule "virionData"]
+	path = virionData
+	url = https://github.com/viralemergence/virionData
+[submodule "wddsWizard"]
+	path = wddsWizard
+	url = https://github.com/viralemergence/wddsWizard
