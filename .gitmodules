@@ -6,6 +6,10 @@
 	path = bold
 	url = https://github.com/ropensci/bold
 	registered = false
+[submodule "deposits"]
+	path = deposits
+	url = https://github.com/ropenscilabs/deposits
+	registered = false
 [submodule "epizootic"]
 	path = epizootic
 	url = https://github.com/viralemergence/epizootic

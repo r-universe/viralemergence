@@ -6,6 +6,12 @@
     "from": "insectDisease"
   },
   {
+    "package": "deposits",
+    "url": "https://github.com/ropenscilabs/deposits",
+    "via": ["wddsWizard"],
+    "from": "wddsWizard"
+  },
+  {
     "package": "taxize",
     "url": "https://github.com/ropensci/taxize",
     "via": ["insectDisease"],
